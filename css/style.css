@@ -459,8 +459,8 @@ body {
 }
 
 .portfolio .images .filter-image {
-    height: 18rem;
-    width: 25rem;
+    height: 30rem;
+    width: 40rem;
     border-radius: .5rem;
     margin: 2rem;
     -o-object-fit: cover;
